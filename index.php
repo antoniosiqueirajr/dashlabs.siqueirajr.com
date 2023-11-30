@@ -31,25 +31,25 @@
                 <div class="flex">
                     <div class="flex">
                         <div class="painel bg-success flex-1">
-                            <div class="painel-titulo">Atrasado</div>
+                            <div class="painel-titulo">Entregue</div>
                             <div class="painel-subtitulo">&nbsp;</div>
-                            <div class="painel-indicador">12</div>
+                            <div class="painel-indicador">2</div>
                         </div>
                     </div>
                     <div class="flex-1 flex flex-column">
                         <div class="flex flex-1">
-                            <div class="painel flex-1">
+                            <div class="painel bg-success flex-1">
                                 <div class="painel-titulo">Hoje</div>
                                 <div class="painel-subtitulo">&nbsp;</div>
-                                <div class="painel-indicador">0</div>
+                                <div class="painel-indicador">10</div>
                             </div>
-                            <div class="painel flex-1">
+                            <div class="painel bg-primary flex-1">
                                 <div class="painel-titulo">Em andamento</div>
                                 <div class="painel-subtitulo">&nbsp;</div>
                                 <div class="painel-indicador">1</div>
                             </div>
                         </div>
-                        <div class="painel flex-1">
+                        <div class="painel bg-success flex-1">
                             <div class="painel-titulo">Último</div>
                             <div class="painel-subtitulo">&nbsp;</div>
                             <div class="painel-indicador painel-indicador-pequeno">10:48:37</div>
@@ -65,10 +65,10 @@
                 <div class="flex">
                     <div class="flex-1 flex flex-column">
                         <div class="flex flex-1">
-                            <div class="painel flex-1">
-                                <div class="painel-titulo">Total</div>
-                                <div class="painel-subtitulo">Mês atual</div>
-                                <div class="painel-indicador">711</div>
+                            <div class="painel bg-danger flex-1">
+                                <div class="painel-titulo">Atrasodo</div>
+                                <div class="painel-subtitulo">Atrasado</div>
+                                <div class="painel-indicador">20</div>
                             </div>
                             <div class="painel flex-1">
                                 <div class="painel-titulo">Tempo médio</div>
