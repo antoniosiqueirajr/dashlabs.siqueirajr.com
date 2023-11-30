@@ -38,18 +38,18 @@
                     </div>
                     <div class="flex-1 flex flex-column">
                         <div class="flex flex-1">
-                            <div class="painel bg-success flex-1">
+                            <div class="painel flex-1">
                                 <div class="painel-titulo">Hoje</div>
                                 <div class="painel-subtitulo">&nbsp;</div>
                                 <div class="painel-indicador">10</div>
                             </div>
-                            <div class="painel bg-primary flex-1">
+                            <div class="painel flex-1">
                                 <div class="painel-titulo">Em andamento</div>
                                 <div class="painel-subtitulo">&nbsp;</div>
                                 <div class="painel-indicador">1</div>
                             </div>
                         </div>
-                        <div class="painel bg-success flex-1">
+                        <div class="painel flex-1">
                             <div class="painel-titulo">Último</div>
                             <div class="painel-subtitulo">&nbsp;</div>
                             <div class="painel-indicador painel-indicador-pequeno">10:48:37</div>
