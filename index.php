@@ -113,7 +113,7 @@
                                     </div>
                                     <div class="hero">
                                         <div class="hero-avatar">
-                                            <img src="img/2.png">
+                                            <img src="img/1.png">
                                         </div>
                                         <span class="hero-ranking">2</span>
                                         <div class="hero-nome">João</div>
@@ -121,7 +121,7 @@
                                     </div>
                                     <div class="hero">
                                         <div class="hero-avatar">
-                                            <img src="img/3.jpg">
+                                            <img src="img/1.jpg">
                                         </div>
                                         <span class="hero-ranking">3</span>
                                         <div class="hero-nome">Diego</div>
