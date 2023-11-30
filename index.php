@@ -23,40 +23,7 @@
             <div class="text-right">Antonio Siqueira</div>
         </header>
         <div class="main flex flex-1"> 
-            <div>
-                <div class="painel text-center flex h-center v-center">
-                    <i class="fa fa-2x fa-phone text-danger"></i>
-                    <span class="ml-5">&nbsp;&nbsp;TELEFONE</span>
-                </div>
-                <div class="flex">
-                    <div class="flex">
-                        <div class="painel bg-success flex-1">
-                            <div class="painel-titulo">Atrasado</div>
-                            <div class="painel-subtitulo">&nbsp;</div>
-                            <div class="painel-indicador">12</div>
-                        </div>
-                    </div>
-                    <div class="flex-1 flex flex-column">
-                        <div class="flex flex-1">
-                            <div class="painel flex-1">
-                                <div class="painel-titulo">Hoje</div>
-                                <div class="painel-subtitulo">&nbsp;</div>
-                                <div class="painel-indicador">0</div>
-                            </div>
-                            <div class="painel flex-1">
-                                <div class="painel-titulo">Em andamento</div>
-                                <div class="painel-subtitulo">&nbsp;</div>
-                                <div class="painel-indicador">1</div>
-                            </div>
-                        </div>
-                        <div class="painel flex-1">
-                            <div class="painel-titulo">Último</div>
-                            <div class="painel-subtitulo">&nbsp;</div>
-                            <div class="painel-indicador painel-indicador-pequeno">10:48:37</div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+          
             <div>
                 <div class="painel text-center flex h-center v-center">
                     <i class="fas fa-2x fa-comment-alt"></i>
@@ -85,7 +52,7 @@
                             <div class="painel flex-1">
                                 <div class="painel-titulo">Duração média</div>
                                 <div class="painel-subtitulo">Essa semana</div>
-                                <div class="painel-indicador text-warning">1 dia</div>
+                                <div class="painel-indicador text-warning">27:20</div>
                             </div>
                         </div>
                     </div>
@@ -100,7 +67,7 @@
                     <div class="flex-1 flex flex-column">
                         <div class="flex flex-1">
                             <div class="painel flex-1">
-                                <div class="painel-titulo">CSAT Score</div>
+                                <div class="painel-titulo">Prótetico</div>
                                 <div class="painel-subtitulo">Mês atual</div>
                                 <div class="painel-indicador-duplo flex">
                                     <div class="hero">
@@ -108,7 +75,7 @@
                                             <img src="img/1.png">
                                         </div>
                                         <span class="hero-ranking hero-ranking-destaque">1</span>
-                                        <div class="hero-nome">John Doe</div>
+                                        <div class="hero-nome">André</div>
                                         <div class="hero-indice">69%</div>
                                     </div>
                                     <div class="hero">
@@ -116,7 +83,7 @@
                                             <img src="img/2.png">
                                         </div>
                                         <span class="hero-ranking">2</span>
-                                        <div class="hero-nome">John Doe</div>
+                                        <div class="hero-nome">João</div>
                                         <div class="hero-indice">61%</div>
                                     </div>
                                     <div class="hero">
@@ -124,7 +91,7 @@
                                             <img src="img/3.jpg">
                                         </div>
                                         <span class="hero-ranking">3</span>
-                                        <div class="hero-nome">John Doe</div>
+                                        <div class="hero-nome">Diego</div>
                                         <div class="hero-indice">60%</div>
                                     </div>
                                 </div>
