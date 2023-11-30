@@ -31,7 +31,7 @@
                 <div class="flex">
                     <div class="flex">
                         <div class="painel bg-success flex-1">
-                            <div class="painel-titulo">Pedidos Hoje</div>
+                            <div class="painel-titulo">Atrasado</div>
                             <div class="painel-subtitulo">&nbsp;</div>
                             <div class="painel-indicador">12</div>
                         </div>
@@ -39,7 +39,7 @@
                     <div class="flex-1 flex flex-column">
                         <div class="flex flex-1">
                             <div class="painel flex-1">
-                                <div class="painel-titulo">Na fila</div>
+                                <div class="painel-titulo">Hoje</div>
                                 <div class="painel-subtitulo">&nbsp;</div>
                                 <div class="painel-indicador">0</div>
                             </div>
@@ -50,9 +50,9 @@
                             </div>
                         </div>
                         <div class="painel flex-1">
-                            <div class="painel-titulo">Última chamada perdida</div>
+                            <div class="painel-titulo">Último</div>
                             <div class="painel-subtitulo">&nbsp;</div>
-                            <div class="painel-indicador painel-indicador-pequeno">2 dias, 10:48:37</div>
+                            <div class="painel-indicador painel-indicador-pequeno">10:48:37</div>
                         </div>
                     </div>
                 </div>
