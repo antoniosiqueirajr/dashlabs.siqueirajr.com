@@ -19,8 +19,8 @@
     <body>
         <header class="flex space-between">
             <div>SJR</div>
-            <div class="text-center">Dashboard</div>
-            <div class="text-right">Exemplo</div>
+            <div class="text-center">LABOR SAN</div>
+            <div class="text-right">Antonio Siqueira</div>
         </header>
         <div class="main flex flex-1"> 
             <div>
@@ -31,7 +31,7 @@
                 <div class="flex">
                     <div class="flex">
                         <div class="painel bg-success flex-1">
-                            <div class="painel-titulo">Disponível</div>
+                            <div class="painel-titulo">Pedidos Hoje</div>
                             <div class="painel-subtitulo">&nbsp;</div>
                             <div class="painel-indicador">12</div>
                         </div>
