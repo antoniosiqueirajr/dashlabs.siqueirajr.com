@@ -78,14 +78,14 @@
                         </div>
                         <div class="flex flex-1">
                             <div class="painel flex-1">
-                                <div class="painel-titulo">% boas avaliações</div>
+                                <div class="painel-titulo">% Retrabalho</div>
                                 <div class="painel-subtitulo">Mês atual</div>
-                                <div class="painel-indicador">90</div>
+                                <div class="painel-indicador">10</div>
                             </div>
                             <div class="painel flex-1">
                                 <div class="painel-titulo">Duração média</div>
                                 <div class="painel-subtitulo">Essa semana</div>
-                                <div class="painel-indicador text-warning">27:20</div>
+                                <div class="painel-indicador text-warning">1 dia</div>
                             </div>
                         </div>
                     </div>
